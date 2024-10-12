@@ -8620,11 +8620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igorl\\RiderProjects\\DasAuto\\WebApplicationCar\\WebApplicationCar\\WebApplicationCar.csproj",
+      "projectUniqueName": "C:\\Users\\igorl\\PhpstormProjects\\homeReact_and_Api\\back\\api\\src\\WebApplicationCar\\WebApplicationCar.csproj",
       "projectName": "WebApplicationCar",
-      "projectPath": "C:\\Users\\igorl\\RiderProjects\\DasAuto\\WebApplicationCar\\WebApplicationCar\\WebApplicationCar.csproj",
+      "projectPath": "C:\\Users\\igorl\\PhpstormProjects\\homeReact_and_Api\\back\\api\\src\\WebApplicationCar\\WebApplicationCar.csproj",
       "packagesPath": "C:\\Users\\igorl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igorl\\RiderProjects\\DasAuto\\WebApplicationCar\\WebApplicationCar\\obj\\",
+      "outputPath": "C:\\Users\\igorl\\PhpstormProjects\\homeReact_and_Api\\back\\api\\src\\WebApplicationCar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igorl\\AppData\\Roaming\\NuGet\\NuGet.Config",
